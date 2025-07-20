@@ -24,9 +24,7 @@ Installing nds4ios
 ##### Do not redistribute nds4ios on other sites. We already provide official ways to download nds4ios below. THIS IS A FAIR WARNING.
 #### Option 1: Download nds4ios from Karen's Pineapple (KarenP/88888888)
 
-If you're jailbroken, please follow the instructions here: http://nds4ios.angelxwind.net/i/?page/downloads#jailbroken
-
-If you're NOT jailbroken, please follow the instructions here: http://nds4ios.angelxwind.net/i/?page/downloads#notjailbroken
+If You Have The IPA File, Email it to us at jacksonlopez@gmail.com or fork this
 
 #### Option 2: Compile nds4ios yourself
 
